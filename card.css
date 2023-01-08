@@ -3,3 +3,26 @@
     background-repeat: no-repeat;
     background-size: 366px 244px;
 }
+/* Card number */
+.card .pan {
+    color: white;
+}	
+/* Copy button */
+.card .pan .copy-icon {
+    color: white;
+}	
+/* Cardholder */
+.card .name {
+    color: white;
+}	
+/* Expiration date */
+.card .expiration-date {
+    color: white;
+}	
+/* Security code */
+.card .security-code {
+    color: white;
+}
+.card .pin {
+    color: white;
+}
