@@ -3,7 +3,9 @@
     background-repeat: no-repeat;
     /* background-size: 373px 234px; */
     background-size: cover;
-    background-position: right;
+    background-position: center right;
+    justify-content: center;
+    box-shadow: none;
 }
 /* Card number */
 .card .pan {
