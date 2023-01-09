@@ -5,11 +5,14 @@
     background-size: cover;
     background-position: center right;
     justify-content: center;
-    box-shadow: none;
+    box-shadow: 6px 7px 6px -7px #ced4da;
+    border-radius: 12px;
 }
 /* Card number */
 .card .pan {
     color: white;
+    position: relative;
+    top: 14px;
 }	
 /* Copy button */
 .card .pan .copy-icon {
@@ -18,6 +21,8 @@
 /* Cardholder */
 .card .name {
     color: white;
+    position: relative;
+    top: 14px;
 }	
 /* Expiration date */
 .card .expiration-date {
@@ -29,4 +34,9 @@
 }
 .card .pin {
     color: white;
+}
+
+.card .exp-code-container {
+    position: relative;
+    top: 10px;
 }
