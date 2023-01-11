@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.kmt.customer",
+                 "sha256_cert_fingerprints": ["C8:49:B7:8F:12:F6:C6:E0:AA:64:C1:5F:28:D9:98:17:B7:1F:61:DD:AB:80:EC:C7:E3:79:B9:29:5B:AD:F2:D3"] }
+  }]
