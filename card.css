@@ -42,23 +42,12 @@
 }
 
 /* list */
-#list {
+.list {
     box-shadow: inset 0px 3px 6px rgba(0, 0, 0, 0.160784)!important;
     background: linear-gradient(180deg, #F0F0F0 0%, #FFFFFF 100%);
-
-
-    /* Rectangle 413 */
-
-/* box-sizing: border-box;
-
-position: absolute;
-width: 297px;
-height: 491px;
-left: 47px;
-top: 188px;
-
-background: linear-gradient(180deg, #F0F0F0 0%, #FFFFFF 100%);
-border: 2px solid #FFFFFF;
-box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.160784), inset 0px 3px 6px rgba(0, 0, 0, 0.160784); */
-
+}
+.list .pan {
+    padding: 10px 16px;
+    border: 1px solid #D1D0D1;
+    border-radius: 16px;
 }
