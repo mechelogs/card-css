@@ -55,13 +55,14 @@
     background: #fff;
     color: #3D5684!important;
     font-weight: 600;
+    margin-bottom: 38px!important;
 }
 
-.list div:first-child {
+.list > div:first-child {
     margin-top: 20px!important;
 }
 
-.list div:last-child {
+.list > div:last-child {
     margin-bottom: 20px!important;
 }
 
