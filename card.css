@@ -48,7 +48,7 @@
     border: 2px solid #fff;
     padding: 30px;
 }
-.list .pan, .list .name, .list .expiration-date, .list .security-code {
+.list .pan, .list .name, .list .pin, .list .expiration-date, .list .security-code {
     padding: 10px 16px;
     border: 1px solid #D1D0D1;
     border-radius: 16px;
