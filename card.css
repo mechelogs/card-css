@@ -57,11 +57,11 @@
     font-weight: 600;
 }
 
-.list .pan {
+.list div:first-child {
     margin-top: 20px!important;
 }
 
-.list .security-code {
+.list div:last-child {
     margin-bottom: 20px!important;
 }
 
