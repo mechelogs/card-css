@@ -55,6 +55,14 @@
     background: #fff;
 }
 
+.list .pan {
+    margin-top: 20px!important;
+}
+
+.list .security-code {
+    margin-bottom: 20px!important;
+}
+
 .list .label {
     color: #05A1BA!important;
 }
