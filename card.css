@@ -56,5 +56,10 @@
 }
 
 .list .label {
-    color: #05A1BA;
+    color: #05A1BA!important;
+}
+
+.list .copy-icon {
+    color: #3D5684!important;
+    margin-left: 35px;
 }
