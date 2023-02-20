@@ -74,6 +74,10 @@
     color: #3D5684!important;
     margin-left: 35px!important;
 }
+.list .pin .label {
+    display: block;
+    text-transform: uppercase;
+}
 /* 
 .activation-form {
     flex-direction: unset;
