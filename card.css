@@ -32,6 +32,9 @@
 .card .security-code {
     color: white;
 }
+.card .cvv_expiration_time {
+    color: white;
+}
 .card .pin {
     color: white;
 }
